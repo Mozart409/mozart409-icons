@@ -1,0 +1,964 @@
+---
+C:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/C.c"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Dart:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Example.dart"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Go:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Golang.go"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Haskell:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Haskell.hs"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+JSON:
+  blanks: 0
+  children: {}
+  code: 650
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./tsconfig.json"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 14
+        comments: 0
+    - name: "./package.json"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 38
+        comments: 0
+    - name: "./test/package.json"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+    - name: "./test/vercel.json"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+    - name: "./mozart409-icons.json"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 598
+        comments: 0
+JSX:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/JSX.jsx"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Java:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Java.java"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+JavaScript:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/JavaScript.js"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Jupyter Notebooks:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Jupyter.ipynb"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Markdown:
+  blanks: 36
+  children: {}
+  code: 0
+  comments: 44
+  inaccurate: false
+  reports:
+    - name: "./vsc-extension-quickstart.md"
+      stats:
+        blanks: 11
+        blobs: {}
+        code: 0
+        comments: 17
+    - name: "./CHANGELOG.md"
+      stats:
+        blanks: 4
+        blobs: {}
+        code: 0
+        comments: 5
+    - name: "./README.md"
+      stats:
+        blanks: 21
+        blobs: {}
+        code: 0
+        comments: 22
+Python:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Python.py"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Ruby:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/Ruby.rb"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+SVG:
+  blanks: 0
+  children: {}
+  code: 445
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./icons/prisma.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 3
+        comments: 0
+    - name: "./icons/file_type_angular.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_vue.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 10
+        comments: 0
+    - name: "./icons/file_type_c.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_sketch.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_binary.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_graphviz.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_ruby.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 8
+        comments: 0
+    - name: "./icons/file_type_npm.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_json.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_svelte.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 8
+        comments: 0
+    - name: "./icons/file_type_git.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_shell.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_js.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/vercel.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 4
+        comments: 0
+    - name: "./icons/file_type_source.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 11
+        comments: 0
+    - name: "./icons/file_type_cpp.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_perl.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_scss.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_haskell.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_sass.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_procfile.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/golang.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 1
+        comments: 0
+    - name: "./icons/file_type_csharp.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_rollup.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_csv.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 8
+        comments: 0
+    - name: "./icons/file_type_jupyter.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 25
+        comments: 0
+    - name: "./icons/file_type_gql.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_python.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_gruntfile.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_liquid.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_rust.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 10
+        comments: 0
+    - name: "./icons/file_type_license.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_css.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_font.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_groovy.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_swift.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_yaml.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 10
+        comments: 0
+    - name: "./icons/file_type_haxe.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_wasm.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_image.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_default.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 7
+        comments: 0
+    - name: "./icons/file_type_markdown.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_psm.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 68
+        comments: 0
+    - name: "./icons/file_type_php.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/file_type_typescript.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 9
+        comments: 0
+    - name: "./icons/babel.svg"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 1
+        comments: 0
+TSX:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/TSX.tsx"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+Total:
+  blanks: 36
+  children:
+    C:
+      - name: "./test/C.c"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Dart:
+      - name: "./test/Example.dart"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Go:
+      - name: "./test/Golang.go"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Haskell:
+      - name: "./test/Haskell.hs"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Java:
+      - name: "./test/Java.java"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    JavaScript:
+      - name: "./test/JavaScript.js"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Json:
+      - name: "./tsconfig.json"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 14
+          comments: 0
+      - name: "./package.json"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 38
+          comments: 0
+      - name: "./test/package.json"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+      - name: "./test/vercel.json"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+      - name: "./mozart409-icons.json"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 598
+          comments: 0
+    Jsx:
+      - name: "./test/JSX.jsx"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Jupyter:
+      - name: "./test/Jupyter.ipynb"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Markdown:
+      - name: "./vsc-extension-quickstart.md"
+        stats:
+          blanks: 11
+          blobs: {}
+          code: 0
+          comments: 17
+      - name: "./CHANGELOG.md"
+        stats:
+          blanks: 4
+          blobs: {}
+          code: 0
+          comments: 5
+      - name: "./README.md"
+        stats:
+          blanks: 21
+          blobs: {}
+          code: 0
+          comments: 22
+    Python:
+      - name: "./test/Python.py"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Ruby:
+      - name: "./test/Ruby.rb"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Svg:
+      - name: "./icons/prisma.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 3
+          comments: 0
+      - name: "./icons/file_type_angular.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_vue.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 10
+          comments: 0
+      - name: "./icons/file_type_c.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_sketch.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_binary.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_graphviz.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_ruby.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 8
+          comments: 0
+      - name: "./icons/file_type_npm.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_json.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_svelte.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 8
+          comments: 0
+      - name: "./icons/file_type_git.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_shell.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_js.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/vercel.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 4
+          comments: 0
+      - name: "./icons/file_type_source.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 11
+          comments: 0
+      - name: "./icons/file_type_cpp.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_perl.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_scss.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_haskell.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_sass.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_procfile.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/golang.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 1
+          comments: 0
+      - name: "./icons/file_type_csharp.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_rollup.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_csv.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 8
+          comments: 0
+      - name: "./icons/file_type_jupyter.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 25
+          comments: 0
+      - name: "./icons/file_type_gql.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_python.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_gruntfile.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_liquid.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_rust.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 10
+          comments: 0
+      - name: "./icons/file_type_license.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_css.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_font.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_groovy.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_swift.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_yaml.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 10
+          comments: 0
+      - name: "./icons/file_type_haxe.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_wasm.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_image.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_default.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 7
+          comments: 0
+      - name: "./icons/file_type_markdown.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_psm.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 68
+          comments: 0
+      - name: "./icons/file_type_php.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/file_type_typescript.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 9
+          comments: 0
+      - name: "./icons/babel.svg"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 1
+          comments: 0
+    Tsx:
+      - name: "./test/TSX.tsx"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    TypeScript:
+      - name: "./test/TypeScript.ts"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+    Yaml:
+      - name: "./tokei.yml"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+      - name: "./test/pubspec.yaml"
+        stats:
+          blanks: 0
+          blobs: {}
+          code: 0
+          comments: 0
+  code: 1095
+  comments: 44
+  inaccurate: false
+  reports: []
+TypeScript:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./test/TypeScript.ts"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+YAML:
+  blanks: 0
+  children: {}
+  code: 0
+  comments: 0
+  inaccurate: false
+  reports:
+    - name: "./tokei.yml"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0
+    - name: "./test/pubspec.yaml"
+      stats:
+        blanks: 0
+        blobs: {}
+        code: 0
+        comments: 0

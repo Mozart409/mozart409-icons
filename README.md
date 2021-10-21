@@ -1,3 +1,8 @@
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![](https://tokei.rs/b1/github/mozart409/mozart409-icons)](https://github.com/mozart409/mozart409-icons).
+
 # Mozart409 Icons
 
 My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions
@@ -35,9 +40,3 @@ Please adhere to this project's `code of conduct`.
 ## Authors
 
 - [@Mozart409](https://www.github.com/mozart409)
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
