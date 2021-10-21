@@ -2,8 +2,18 @@
   "name": "mozart409-icons",
   "displayName": "mozart409-icons",
   "description": "My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mozart409",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozart409/mozart409-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/mozart409/mozart409-icons/issues",
+    "email": "hey@mozart409.space"
+  },
+  "homepage": "https://github.com/mozart409/mozart409-icons",
+  "icon": "assets/logo.png",
   "scripts": {
     "package": "vsce package",
     "start": "npm run build; npm run package",
