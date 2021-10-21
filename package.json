@@ -1,17 +1,16 @@
 {
   "name": "mozart409-icons",
   "displayName": "mozart409-icons",
-  "description": "My personal choice of existing themes combined into one.",
+  "description": "My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions",
   "version": "0.0.1",
+  "publisher": "mozart409",
   "scripts": {
-    "build": "ts-node ./src/build.ts",
     "package": "vsce package",
     "start": "npm run build; npm run package",
     "publish": "vsce publish"
   },
   "devDependencies": {
     "@types/node": "^16.6.0",
-    "ayu": "^8.0.1",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3",
     "vsce": "^1.96.1"
@@ -25,21 +24,14 @@
   "keywords": [
     "icon-theme",
     "theme",
-    "ayu"
+    "mozart409"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Mozart409 Icons",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mozart409 Icons-color-theme.json"
-      }
-    ],
     "iconThemes": [
       {
-        "id": "ayu",
-        "label": "Ayu",
-        "path": "./ayu-icons.json"
+        "id": "Mozart409 Icons",
+        "label": "Mozart409 Icons",
+        "path": "./mozart409-icons.json"
       }
     ]
   }

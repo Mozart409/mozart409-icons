@@ -106,7 +106,7 @@
       "iconPath": "./icons/file_type_git.svg"
     },
     "go": {
-      "iconPath": "./icons/file_type_go@2x.png"
+      "iconPath": "./icons/golang.svg"
     },
     "gql": {
       "iconPath": "./icons/file_type_gql.svg"
@@ -219,6 +219,9 @@
     "procfile": {
       "iconPath": "./icons/file_type_procfile.svg"
     },
+    "prisma": {
+      "iconPath": "./icons/prisma.svg"
+    },
     "psd": {
       "iconPath": "./icons/file_type_psd@2x.png"
     },
@@ -317,6 +320,9 @@
     },
     "typescript": {
       "iconPath": "./icons/file_type_typescript.svg"
+    },
+    "vercel": {
+      "iconPath": "./icons/vercel.svg"
     },
     "vue": {
       "iconPath": "./icons/file_type_vue.svg"
@@ -492,6 +498,7 @@
     "phtml": "php",
     "png": "image",
     "procfile": "procfile",
+    "prisma": "prisma",
     "psd": "psd",
     "pug": "pug",
     "pug-lintrc": "pug",
@@ -578,8 +585,10 @@
     "makefile": "settings",
     "package.json": "npm",
     "Procfile": "procfile",
+    "prisma": "prisma",
     "rollup.config.js": "rollup",
     "vagrantfile": "settings",
+    "vercel.json": "vercel",
     "webpack.config.babel.js": "webpack",
     "webpack.config.js": "webpack",
     "yarn.lock": "yarn"
