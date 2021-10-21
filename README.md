@@ -1,16 +1,43 @@
-# mozart409-icons
+# Mozart409 Icons
 
-## This is the README for your extension "mozart409-icons"
+My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<img src="./assets/preview.png" alt="Preview" width="250"/>
 
-### For more information
+## FAQ
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+#### Can I request more or other icons
 
-**Enjoy!**
+Yes of course. Just open an issue or add an pull request
+
+#### The theme seems like Ayu Icons
+
+Yes this theme is based of them. Find the original [here](https://github.com/ayu-theme/vscode-ayu)
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+## Roadmap
+
+- Add more Icons
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Authors
+
+- [@Mozart409](https://www.github.com/mozart409)
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
