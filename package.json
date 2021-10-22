@@ -17,7 +17,8 @@
   "scripts": {
     "package": "vsce package",
     "start": "npm run build; npm run package",
-    "publish": "vsce publish"
+    "publish": "vsce publish",
+    "deploy": "vsce publish --yarn"
   },
   "devDependencies": {
     "@types/node": "^16.6.0",
