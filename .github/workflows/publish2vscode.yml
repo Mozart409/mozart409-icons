@@ -2,32 +2,24 @@
 
 name: Publish2vscode
 
-
 on:
-
   release:
     types:
       - created
 
-
   workflow_dispatch:
 
-
 jobs:
-
   publish:
-
     runs-on: ubuntu-latest
 
-
     steps:
-
       - uses: actions/checkout@v2
 
       - name: Install Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
 
       # Runs a single command using the runners shell
       - name: Install dependencies
