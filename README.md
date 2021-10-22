@@ -5,7 +5,7 @@
 
 # Mozart409 Icons
 
-My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions
+My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions.
 
 ## Screenshots
 
