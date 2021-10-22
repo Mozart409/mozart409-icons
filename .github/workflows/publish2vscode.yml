@@ -3,6 +3,8 @@
 name: Publish2vscode
 
 on:
+  push:
+    branches: [main]
   release:
     types:
       - created
