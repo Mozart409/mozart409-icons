@@ -138,6 +138,9 @@
     "image": {
       "iconPath": "./icons/file_type_image.svg"
     },
+    "ini": {
+      "iconPath": "./icons/ini.svg"
+    },
     "jade": {
       "iconPath": "./icons/file_type_jade@2x.png"
     },
@@ -432,6 +435,7 @@
     "hxml": "haxe",
     "hxproj": "haxe",
     "ico": "image",
+    "ini": "ini",
     "ipynb": "jupyter",
     "jade": "pug",
     "jade-lintrc": "pug",
@@ -581,6 +585,7 @@
     "ionic.config.json": "settings",
     "ionic.project": "settings",
     "license": "license",
+    "ini": "ini",
     "license.md": "license",
     "makefile": "settings",
     "package.json": "npm",
