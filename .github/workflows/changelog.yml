@@ -1,0 +1,26 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CreateChangelog
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate a changelog
+      - uses: orhun/git-cliff-action@v1
+        with:
+          config: cliff.toml
+          args: --verbose
+        env:
+          OUTPUT: CHANGELOG.md
