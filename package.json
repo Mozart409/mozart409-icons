@@ -2,7 +2,7 @@
   "name": "mozart409-icons",
   "displayName": "mozart409-icons",
   "description": "My personal choice of existing themes combined into one. Based on Ayu Icons with my own modifications and additions",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "publisher": "mozart409",
   "repository": {
     "type": "git",
@@ -18,10 +18,15 @@
     "package": "vsce package",
     "start": "npm run build; npm run package",
     "publish": "vsce publish",
-    "deploy": "vsce publish --yarn"
+    "deploy": "vsce publish --yarn",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
   },
   "devDependencies": {
     "@types/node": "^16.6.0",
+    "standard-version": "^9.3.2",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3",
     "vsce": "^1.96.1"
