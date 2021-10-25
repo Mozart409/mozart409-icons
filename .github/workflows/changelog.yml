@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  publish:
+  changelog:
     runs-on: ubuntu-latest
 
     steps:
