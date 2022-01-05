@@ -1,0 +1,3 @@
+graphql.localhost {
+    reverse_proxy localhost:4000
+}

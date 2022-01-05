@@ -48,6 +48,9 @@
     "c": {
       "iconPath": "./icons/file_type_c.svg"
     },
+    "caddy": {
+      "iconPath": "./icons/caddy.svg"
+    },
     "cfc": {
       "iconPath": "./icons/file_type_cfc@2x.png"
     },
@@ -154,7 +157,7 @@
       "iconPath": "./icons/file_type_js.svg"
     },
     "json": {
-      "iconPath": "./icons/file_type_json.svg"
+      "iconPath": "./icons/json.svg"
     },
     "jsp": {
       "iconPath": "./icons/file_type_jsp@2x.png"
@@ -577,6 +580,7 @@
     ".pug-lintrc.json": "pug",
     ".travis.yml": "settings",
     "bower.json": "bower",
+    "caddyfile": "caddy",
     "checkstyle.json": "haxe",
     "docker-compose.yml": "docker",
     "dockerfile": "docker",
