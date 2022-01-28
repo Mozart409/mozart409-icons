@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/mozart409/mozart409-icons/compare/v0.2.0...v0.3.0) (2022-01-28)
+
+
+### Features
+
+* :sparkles: added nim icon ([2592c42](https://github.com/mozart409/mozart409-icons/commit/2592c425b1b2e01d132296aec1d9a823de1de913))
+
 ## [0.2.0](https://github.com/mozart409/mozart409-icons/compare/v0.1.1...v0.2.0) (2022-01-05)
 
 
