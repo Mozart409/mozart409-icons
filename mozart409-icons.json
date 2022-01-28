@@ -204,6 +204,9 @@
     "mustache": {
       "iconPath": "./icons/file_type_mustache@2x.png"
     },
+    "nim": {
+      "iconPath": "./icons/nim.svg"
+    },
     "node": {
       "iconPath": "./icons/file_type_node@2x.png"
     },
@@ -482,6 +485,9 @@
     "mx3": "matlab",
     "n": "binary",
     "ndll": "binary",
+    "nim": "nim",
+    "nims": "nim",
+    "nimble": "nim",
     "npmignore": "npm",
     "nvmrc": "node",
     "o": "binary",
@@ -596,6 +602,9 @@
     "license": "license",
     "ini": "ini",
     "license.md": "license",
+
+    ".nimble.json": "nim",
+    ".nim.cfg": "nim",
     "makefile": "settings",
     "package.json": "npm",
     "Procfile": "procfile",
