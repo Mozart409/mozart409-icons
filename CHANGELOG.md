@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.2](https://github.com/mozart409/mozart409-icons/compare/v0.3.0...v0.3.2) (2022-01-28)
+
+
+### Features
+
+* :bookmark: v0.3.0 ([c6741b3](https://github.com/mozart409/mozart409-icons/commit/c6741b328144d84e77d3e576daa6f3e5044085e5))
+* :bookmark: v0.3.1 ([ba8f323](https://github.com/mozart409/mozart409-icons/commit/ba8f323b20aedef079f9203f36808f7e9e1e1e8c))
+* :sparkles: added snyk icon ([80d0681](https://github.com/mozart409/mozart409-icons/commit/80d0681648e186bf8c66f34e698c6139afca6b62))
+
 ## [0.3.0](https://github.com/mozart409/mozart409-icons/compare/v0.2.0...v0.3.0) (2022-01-28)
 
 
