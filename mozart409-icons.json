@@ -291,6 +291,9 @@
     "smiley": {
       "iconPath": "./icons/file_type_smiley@2x.png"
     },
+    "snyk": {
+      "iconPath": "./icons/snyk.svg"
+    },
     "source": {
       "iconPath": "./icons/file_type_source.svg"
     },
@@ -575,6 +578,7 @@
   },
   "fileNames": {
     ".babelrc": "babel",
+    ".dccache": "snyk",
     ".eslintrc": "eslint",
     ".eslintrc.js": "eslint",
     ".eslintrc.json": "eslint",
