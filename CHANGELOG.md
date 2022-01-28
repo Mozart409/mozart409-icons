@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.3](https://github.com/mozart409/mozart409-icons/compare/v0.3.2...v0.3.3) (2022-01-28)
+
+
+### Bug Fixes
+
+* :sparkles: fixed nimble icons ([76f6f1d](https://github.com/mozart409/mozart409-icons/commit/76f6f1d00e3fcd93001c1ccc2e75bd0f3ab9ff89))
+
 ### [0.3.2](https://github.com/mozart409/mozart409-icons/compare/v0.3.0...v0.3.2) (2022-01-28)
 
 
