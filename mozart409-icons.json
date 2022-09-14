@@ -327,6 +327,9 @@
     "todo": {
       "iconPath": "./icons/file_type_todo@2x.png"
     },
+    "toml": {
+      "iconPath": "./icons/toml.svg"
+    },
     "twig": {
       "iconPath": "./icons/file_type_twig@2x.png"
     },
@@ -563,6 +566,7 @@
     "tf": "terraform",
     "hcl": "terraform",
     "ttf": "font",
+    "toml": "toml",
     "twig": "twig",
     "txt": "text",
     "vue": "vue",
