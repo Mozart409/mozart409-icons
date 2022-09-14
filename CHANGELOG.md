@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/Mozart409/mozart409-icons/compare/v0.3.0...v0.4.0) (2022-09-14)
+
+
+### Features
+
+* :bookmark: v0.3.0 ([c6741b3](https://github.com/Mozart409/mozart409-icons/commit/c6741b328144d84e77d3e576daa6f3e5044085e5))
+* :bookmark: v0.3.1 ([ba8f323](https://github.com/Mozart409/mozart409-icons/commit/ba8f323b20aedef079f9203f36808f7e9e1e1e8c))
+* :lipstick: added toml icon ([ac1acf7](https://github.com/Mozart409/mozart409-icons/commit/ac1acf781a84b32d5c2adc06b186074a0c175746))
+* :sparkles: added cargo and env icon ([7dde21c](https://github.com/Mozart409/mozart409-icons/commit/7dde21cf6957db25f30326e0d183545624cb4f6b))
+* :sparkles: added snyk icon ([80d0681](https://github.com/Mozart409/mozart409-icons/commit/80d0681648e186bf8c66f34e698c6139afca6b62))
+
+
+### Bug Fixes
+
+* :green_heart: fix ci ([aab67ed](https://github.com/Mozart409/mozart409-icons/commit/aab67ed08db8cfc7649951d8613061baf262a961))
+* :lock: fixed security ([aa34aab](https://github.com/Mozart409/mozart409-icons/commit/aa34aabad7fae8bd7bacb0577e3d4e16463fac44))
+* :sparkles: fixed nimble icons ([76f6f1d](https://github.com/Mozart409/mozart409-icons/commit/76f6f1d00e3fcd93001c1ccc2e75bd0f3ab9ff89))
+
 ## [0.3.0](https://github.com/Mozart409/mozart409-icons/compare/v0.2.0...v0.3.0) (2022-09-14)
 
 
