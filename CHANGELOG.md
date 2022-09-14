@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.1](https://github.com/Mozart409/mozart409-icons/compare/v0.4.0...v0.4.1) (2022-09-14)
+
+
+### Bug Fixes
+
+* :green_heart: fix ci ([aab67ed](https://github.com/Mozart409/mozart409-icons/commit/aab67ed08db8cfc7649951d8613061baf262a961))
+* :lock: fixed security ([aa34aab](https://github.com/Mozart409/mozart409-icons/commit/aa34aabad7fae8bd7bacb0577e3d4e16463fac44))
+
 ## [0.4.0](https://github.com/Mozart409/mozart409-icons/compare/v0.3.0...v0.4.0) (2022-09-14)
 
 
