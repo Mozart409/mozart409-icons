@@ -51,6 +51,9 @@
     "caddy": {
       "iconPath": "./icons/caddy.svg"
     },
+    "cargo": {
+      "iconPath": "./icons/cargo.png"
+    },
     "cfc": {
       "iconPath": "./icons/file_type_cfc@2x.png"
     },
@@ -86,6 +89,9 @@
     },
     "elm": {
       "iconPath": "./icons/file_type_elm@2x.png"
+    },
+    "env": {
+      "iconPath": "./icons/env.svg"
     },
     "erb": {
       "iconPath": "./icons/file_type_html@2x.png"
@@ -420,6 +426,7 @@
     "eot": "font",
     "epp": "puppet",
     "erb": "html",
+    "env": "env",
     "ex": "ex",
     "exe": "binary",
     "exs": "ex",
@@ -584,6 +591,8 @@
   },
   "fileNames": {
     ".babelrc": "babel",
+    "Cargo.toml": "cargo",
+    "Cargo.lock": "cargo",
     ".dccache": "snyk",
     ".eslintrc": "eslint",
     ".eslintrc.js": "eslint",
@@ -595,6 +604,12 @@
     ".pug-lintrc.js": "pug",
     ".pug-lintrc.json": "pug",
     ".travis.yml": "settings",
+    ".env": "env",
+    ".env.example": "env",
+    ".env.local": "env",
+    ".env.production": "env",
+    ".env.test": "env",
+    ".env.development": "env",
     "bower.json": "bower",
     "caddyfile": "caddy",
     "checkstyle.json": "haxe",
