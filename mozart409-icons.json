@@ -180,6 +180,9 @@
     "less": {
       "iconPath": "./icons/file_type_less@2x.png"
     },
+    "log": {
+      "iconPath": "./icons/log.svg"
+    },
     "license": {
       "iconPath": "./icons/file_type_license.svg"
     },
@@ -363,6 +366,9 @@
     "yarn": {
       "iconPath": "./icons/file_type_yarn@2x.png"
     },
+    "xml": {
+      "iconPath": "./icons/xml.svg"
+    },
     "zip": {
       "iconPath": "./icons/file_type_archive@2x.png"
     }
@@ -401,6 +407,7 @@
     "cljc": "clojure",
     "cljs": "clojure",
     "clojure": "clojure",
+    "cjs": "js",
     "cma": "binary",
     "cmd": "shell",
     "cmi": "binary",
@@ -472,6 +479,7 @@
     "jsx": "jsx",
     "julia": "julia",
     "less": "less",
+    "log": "log",
     "lhs": "haskell",
     "lib": "binary",
     "list": "list",
@@ -583,6 +591,7 @@
     "woff": "font",
     "woff2": "font",
     "xvc": "matlab",
+    "xml": "xml",
     "xz": "archive",
     "yaml": "yaml",
     "yml": "yaml",
