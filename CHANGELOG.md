@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/Mozart409/mozart409-icons/compare/v0.4.1...v0.5.0) (2022-09-20)
+
+
+### Features
+
+* :sparkles: added log cjs and xml icons ([c12f3b9](https://github.com/Mozart409/mozart409-icons/commit/c12f3b9aa1349e748a304df51bf071e8650e7a63))
+
 ## [0.4.1](https://github.com/Mozart409/mozart409-icons/compare/v0.4.0...v0.4.1) (2022-09-14)
 
 
