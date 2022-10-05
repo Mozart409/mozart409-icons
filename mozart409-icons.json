@@ -216,6 +216,9 @@
     "nim": {
       "iconPath": "./icons/nim.svg"
     },
+    "nix": {
+      "iconPath": "./icons/nix.svg"
+    },
     "node": {
       "iconPath": "./icons/file_type_node@2x.png"
     },
@@ -350,6 +353,9 @@
     },
     "vercel": {
       "iconPath": "./icons/vercel.svg"
+    },
+    "vite": {
+      "iconPath": "./icons/vite.svg"
     },
     "vue": {
       "iconPath": "./icons/file_type_vue.svg"
@@ -512,6 +518,7 @@
     "nims": "nim",
     "nimble": "nim",
     "nimble-link": "nim",
+    "nix": "nix",
     "npmignore": "npm",
     "nvmrc": "node",
     "o": "binary",
@@ -620,6 +627,7 @@
     ".env.production": "env",
     ".env.test": "env",
     ".env.development": "env",
+    "vite.config.js": "vite",
     "bower.json": "bower",
     "caddyfile": "caddy",
     "checkstyle.json": "haxe",
