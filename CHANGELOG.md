@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.6.0](https://github.com/Mozart409/mozart409-icons/compare/v0.5.0...v0.6.0) (2022-10-05)
+
+
+### Features
+
+* :sparkles: added conf icon ([1a248b9](https://github.com/Mozart409/mozart409-icons/commit/1a248b984d81eef6cc2eefeb24eca43dac263d23))
+* :sparkles: added vite and nix icons ([0257fe8](https://github.com/Mozart409/mozart409-icons/commit/0257fe85df3952d577093fd9a2a5007d9293b7af))
+
 ## [0.5.0](https://github.com/Mozart409/mozart409-icons/compare/v0.4.1...v0.5.0) (2022-09-20)
 
 
