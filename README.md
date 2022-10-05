@@ -1,7 +1,6 @@
 ## Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![](https://tokei.rs/b1/github/mozart409/mozart409-icons)](https://github.com/mozart409/mozart409-icons).
 
 # Mozart409 Icons
 
@@ -19,7 +18,7 @@ Yes of course. Just open an issue or add an pull request
 
 #### The theme seems like Ayu Icons
 
-Yes this theme is based of them. Find the original [here](https://github.com/ayu-theme/vscode-ayu)
+Yes this theme is based on Ayu. Find the original [here](https://github.com/ayu-theme/vscode-ayu)
 
 ## Contributing
 
