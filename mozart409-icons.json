@@ -243,6 +243,9 @@
     "prisma": {
       "iconPath": "./icons/prisma.svg"
     },
+    "pnpm": {
+      "iconPath": "./icons/pnpm.svg"
+    },
     "psd": {
       "iconPath": "./icons/file_type_psd@2x.png"
     },
@@ -379,6 +382,18 @@
       "iconPath": "./icons/file_type_archive@2x.png"
     }
   },
+  "files": [
+    {
+      "icon": "nim",
+      "filenamesGlob": ["nim"],
+      "extensionsGlob": ["cfg"]
+    },
+    {
+      "icon": "nim",
+      "filenamesGlob": ["nimble"],
+      "extensionsGlob": ["json"]
+    }
+  ],
   "file": "_file",
   "folder": "_folder_dark",
   "folderExpanded": "_folder_open_dark",
@@ -644,11 +659,13 @@
     "ionic.project": "settings",
     "license": "license",
     "ini": "ini",
+    "justfile": "settings",
     "license.md": "license",
     "nim.cfg": "nim",
     "nimblemeta.json": "nim",
     "makefile": "settings",
     "package.json": "npm",
+    "pnpm-lock.yaml": "pnpm",
     "Procfile": "procfile",
     "prisma": "prisma",
     "rollup.config.js": "rollup",
@@ -658,6 +675,7 @@
     "webpack.config.js": "webpack",
     "yarn.lock": "yarn"
   },
+
   "hidesExplorerArrows": true,
   "languageIds": {}
 }
