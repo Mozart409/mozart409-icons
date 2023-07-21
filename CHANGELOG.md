@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.7.0](https://github.com/Mozart409/mozart409-icons/compare/v0.6.0...v0.7.0) (2023-07-21)
+
+
+### Features
+
+* :sparkles: added pnpm icon and updated icon for justfile ([cdeff95](https://github.com/Mozart409/mozart409-icons/commit/cdeff9591e29fc6ca2a17201e7bf3055eff38479))
+
+
+### Bug Fixes
+
+* :page_facing_up: updated year ([0980393](https://github.com/Mozart409/mozart409-icons/commit/09803939895857eaa1fe1be5c086858b67a02a59))
+
 ## [0.6.0](https://github.com/Mozart409/mozart409-icons/compare/v0.5.0...v0.6.0) (2022-10-05)
 
 
